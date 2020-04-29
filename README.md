@@ -1,2 +1,2 @@
 # CNN_LeNet
-This include basic LeNet architecture and modified LeNet architecture
+This include basic LeNet architecture and modified LeNet architecture with umnist dataset
